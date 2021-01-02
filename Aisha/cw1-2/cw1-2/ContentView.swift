@@ -100,6 +100,7 @@ struct ContentView: View {
                 Spacer()
                 }.padding()
             }.background(Color.white.opacity(0.1))
+            
                 
                         
             }
